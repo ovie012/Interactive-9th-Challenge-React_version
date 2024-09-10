@@ -367,6 +367,10 @@ input.active:valid {
       top: 10px;
       left: 17%;
   }
+
+  .month-year h5 {
+    width: 100%;
+  }
   
   .below {
       font-size: 0.65rem;
@@ -408,5 +412,9 @@ input.active:valid {
 
   .back-card {
       left: 12%;
+  }
+
+  .month-year h5 {
+    width: 120%;
   }
 }
